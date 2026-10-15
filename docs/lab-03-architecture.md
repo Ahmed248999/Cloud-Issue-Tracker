@@ -5,8 +5,8 @@
 To create a website that tracks cloud-based issues and records them to be resolved later .
 
 ## 2. Functional Scope
-* To issues card to record issues.
-* To remove card to if the issue is resolved
+* To issue card to record issues.
+* To remove issues-card if the issue is resolved
 
 ## 3. Request Flow
 
